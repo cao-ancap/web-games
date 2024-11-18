@@ -13,8 +13,8 @@ Jogo feito em Godot 3
 [![Asteroids](https://github.com/cao-ancap/web-games/blob/main/asteroids.png?raw=true)](https://cao-ancap.github.io/web-games/asteroids/asteroids.html)
 
 
-### [Snake](https://cao-ancap.github.io/web-games/snake/index.html)
+### [Snake](https://cao-ancap.github.io/snake)
 
 Snake: Busque comida pelo seu terrítório mas evite obstáculos pelo caminho
 
-[![Snake](https://github.com/cao-ancap/web-games/blob/main/snake.png?raw=true)](https://cao-ancap.github.io/web-games/snake/index.html)
+[![Snake](https://github.com/cao-ancap/web-games/blob/main/snake.png?raw=true)](https://cao-ancap.github.io/snake)
